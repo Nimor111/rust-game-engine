@@ -1,0 +1,11 @@
+[package]
+name = "game-engine"
+version = "0.1.0"
+authors = ["Nimor111 <georgi.bojinov@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glium = "*"
+maplit = "1.0.2"
